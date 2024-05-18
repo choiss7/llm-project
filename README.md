@@ -1,4 +1,3 @@
 # llm-project
 
-
-(image.jpg)
+![이미지설명](readme.jpg)
